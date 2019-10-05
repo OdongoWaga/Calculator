@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  Calculator
-//
-//  Created by hussien alrubaye on 6/16/17.
-//  Copyright © 2017 hussien alrubaye. All rights reserved.
-//
 
 import UIKit
 
